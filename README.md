@@ -1,7 +1,7 @@
 # ParcelServiceRouting
 Completed on April 2023 for my Data Structures &amp; Algorithms II class. Developed using Python.
 
-This program solves the traveling salesman problem for a fictional parcel service company called WGUPS. A variation of the Nearest Neighbor algorithm was used to organize packages optimally for delivery, which save the company — not just mileage on the trucks — but time and money too. This program also utilizes a chained hash table for fast access to detailed package information in constant time. 
+This program solves the Traveling Salesman Problem (TSP) for a fictional parcel service company. TSP is a classic optimization problem in computer science and operations research. It involves finding the shortest possible route that visits a set of given cities and returns to the starting city, where the distance between any two cities is known. A variation of the Nearest Neighbor algorithm was used to optimize the delivery of packages, which saves the parcel company not only mileage on the trucks but also time and money. Moreover, the program utilizes a chained hash table for fast access to detailed package information in constant time.
 
 ___________________________________________________________________
 

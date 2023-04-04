@@ -44,7 +44,9 @@ REQUIREMENTS
 Identify a named self-adjusting algorithm (e.g., “Nearest Neighbor algorithm,” “Greedy algorithm”) deliver the packages.
 
 
+
 Write an original program to deliver all the packages, meeting all requirements, using the attached supporting documents “Salt Lake City Downtown Map,” “WGUPS Distance Table,” and the “WGUPS Package File.”
+
 
 
 Develop a hash table, without using any additional libraries or classes, that has an insertion function that takes the following components as input and inserts the components into the hash table:
@@ -62,6 +64,7 @@ Develop a hash table, without using any additional libraries or classes, that ha
 •   package weight
 
 •   delivery status (e.g., delivered, en route)
+
 
 
 Develop a look-up function that takes the following components as input and returns the corresponding data elements:
